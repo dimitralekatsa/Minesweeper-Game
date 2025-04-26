@@ -1,0 +1,14 @@
+﻿# Compiled class files
+*.class
+
+# Output folders
+/out/
+/target/
+/build/
+
+# IDE-specific files
+/.idea/
+*.iml
+
+# Other common exclusions
+.DS_Store
